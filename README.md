@@ -1,4 +1,6 @@
-base
-====
+Amaze-Base
+==========
 
-Master Version
+Design/Dev Framework
+
+Test depo to get familiar with GitHub.
